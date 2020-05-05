@@ -7,6 +7,7 @@
 <script>
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-vue/dist/bootstrap-vue.css";
+
 import TaskBoard from "./components/TaskBoard.vue";
 export default {
   data() {
